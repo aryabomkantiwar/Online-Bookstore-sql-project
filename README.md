@@ -79,8 +79,6 @@ SQL Concepts Covered
 
 ---
 
- Business Questions Solved
-
 Some of the SQL queries include:
 
 - Retrieve books by genre
@@ -97,16 +95,16 @@ Some of the SQL queries include:
 - Best-selling authors
 
 ---
+Dashboard Preview
 
- Project Structure
+The Power BI dashboard provides an interactive view of the Online Bookstore's sales performance, customer insights, inventory, and order trends. It enables users to explore key metrics through dynamic visualizations and slicers for better business decision-making.
 
 ```
-Online-Bookstore-SQL-Project
-│
-├── SQL PROJECT.sql
-├── README.md
-└── Database_Schema.png (Optional)
-```
+
+Project Screenshots
+
+
+<img width="590" height="341" alt="Onlinebookstore  Dashboard" src="https://github.com/user-attachments/assets/d816d3ee-c1aa-4bfb-9b69-bedb4ac381df" />
 
 ---
 
