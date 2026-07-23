@@ -103,6 +103,12 @@ The Power BI dashboard provides an interactive view of the Online Bookstore's sa
 
 ---
 
+Project Screenshots
+
+<img width="590" height="341" alt="Onlinebookstore  Dashboard" src="https://github.com/user-attachments/assets/f4c6adcc-ad0f-4c33-8372-77bb47c8cc72" />
+
+---
+
  Learning Outcomes
 
 - Relational Database Design
