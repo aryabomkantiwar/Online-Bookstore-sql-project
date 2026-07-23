@@ -2,6 +2,7 @@ Online Bookstore SQL Project
 ---
 
 Project Overview
+
 This project demonstrates SQL database design, data management, and business analysis
 using an Online Bookstore dataset. It includes database creation, table relationships, 
 CRUD operations, and analytical SQL queries to solve real-world business problems.
