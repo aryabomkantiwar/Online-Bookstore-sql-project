@@ -104,7 +104,8 @@ The Power BI dashboard provides an interactive view of the Online Bookstore's sa
 Project Screenshots
 
 
-<img width="590" height="341" alt="Onlinebookstore  Dashboard" src="https://github.com/user-attachments/assets/d816d3ee-c1aa-4bfb-9b69-bedb4ac381df" />
+<img width="605" height="379" alt="EXCEL PROJECT SS" src="https://github.com/user-attachments/assets/7bbdb4cf-cbb3-4a6a-b4f2-0fced7221523" />
+
 
 ---
 
