@@ -28,8 +28,8 @@ Technologies Used
 ---
 
 Database Schema
-<img width="590" height="341" alt="Onlinebookstore  Dashboard" src="https://github.com/user-attachments/assets/c5e00ad8-0b46-4f7e-afbd-1db43b3190f8" />
 
+---
 
 The project consists of three tables:
 
@@ -100,15 +100,6 @@ Some of the SQL queries include:
 Dashboard Preview
 
 The Power BI dashboard provides an interactive view of the Online Bookstore's sales performance, customer insights, inventory, and order trends. It enables users to explore key metrics through dynamic visualizations and slicers for better business decision-making.
-
-```
-
-Project Screenshots
-
-
-![Uploading Onlinebookstore  Dashboard.png…]()
-
-
 
 ---
 
